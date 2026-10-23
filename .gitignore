@@ -1,0 +1,30 @@
+# Entregables y documentos en desarrollo (Trabajo local)
+*.docx
+*.pptx
+*.pdf
+*.zip
+*.png
+*.jpg
+*.jpeg
+PROYECTO_FINAL_INFORME_TECNICO_LOGINET.*
+GUIA_DEFENSA_Y_COMANDOS_RAPIDOS.*
+
+# Bloqueos de aplicaciones de oficina
+~$*
+
+# Ignorar temporales, logs y scripts de desarrollo
+__pycache__/
+*.pyc
+*.tmp
+*.log
+scratch/
+test_*.py
+check_*.py
+trace_*.py
+draw_*.py
+generate_*.py
+complemento/
+ENTREGA_1_*.md
+
+# Enunciado original
+Proyecto.md
